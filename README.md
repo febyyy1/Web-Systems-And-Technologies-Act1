@@ -7,7 +7,7 @@ Activity1
 ### Activities
 
 #### Members
-- Febe D. Carvajal
+	:blush: Febe D. Carvajal
 - Cris C. Carranza
 - Lander Gelit
 
