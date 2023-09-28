@@ -15,7 +15,7 @@ An activity for Web System and Technologies
 - Rene Leona :lion:
 
 ##### Acknowledgement
-This an activity in WST that shows the different tags in HTML.
+I would like to express my deepest appreciation to my groupmates who partake in this activity. I would also like to extend my deepest gratitude to Mr. Anthony Gacis, it would not have been possible without your support and nurturing. And also thank you to Mr. Lois Jerson for the guidance when life gets hard.
 
-![computer genius](https://tenor.com/view/work-computer-typing-busy-gif-17302654)
+![computer genius](https://media.tenor.com/bfOEyTxwK40AAAAC/work-computer.gif)
 
