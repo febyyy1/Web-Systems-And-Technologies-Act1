@@ -1,9 +1,10 @@
-![SorSUlogo](https://github.com/febyyy1/Web-Systems-And-Technologies-Act1/assets/100798162/9e53d224-b3c8-4ef4-9e01-e0caccdcd580)
+<p> <img src="https://v2.sorsu.edu.ph/wp-content/uploads/2023/04/sorsu.png" align="center" width="150px" height="150px"> </p> 
+
 # Title
 [Activity1](https://github.com/febyyy1/Web-Systems-And-Technologies-Act1/blob/main/index.html)
 
 ## Description
-First activity for Web System and Technologies
+An activity for Web System and Technologies
 
 ### Activities
 
@@ -16,5 +17,5 @@ First activity for Web System and Technologies
 ##### Acknowledgement
 This an activity in WST that shows the different tags in HTML.
 
-![cat](https://www.thesprucepets.com/thmb/17UY4UpiMekV7WpeXDziXsnt7q4=/1646x0/filters:no_upscale():strip_icc()/GettyImages-145577979-d97e955b5d8043fd96747447451f78b7.jpg)
+![computer genius](https://tenor.com/view/work-computer-typing-busy-gif-17302654)
 
