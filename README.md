@@ -1,12 +1,14 @@
 <p> <img src="https://v2.sorsu.edu.ph/wp-content/uploads/2023/04/sorsu.png" align="center" width="150px" height="150px"> </p> 
 
 # Title
-[Activity1](https://github.com/febyyy1/Web-Systems-And-Technologies-Act1/blob/main/index.html)
+
+:computer: Repository for Web System and Technologies
 
 ## Description
-An activity for Web System and Technologies
+:boom: An activity for Web System and Technologies
 
 ### Activities
+:heavy_check_mark: [Activity1](https://github.com/febyyy1/Web-Systems-And-Technologies-Act1/blob/main/index.html)
 
 #### Members
 - Febe D. Carvajal 	:blush:
@@ -15,7 +17,7 @@ An activity for Web System and Technologies
 - Rene Leona :lion:
 
 ##### Acknowledgement
-I would like to express my deepest appreciation to my groupmates who partake in this activity. I would also like to extend my deepest gratitude to Mr. Anthony Gacis, it would not have been possible without your support and nurturing our skill/s. And also thank you to Mr. Lois Jerson Gonzales for the guidance when life gets hard.
+:loudspeaker: I would like to express my deepest appreciation to my groupmates who partake in this activity. I would also like to extend my deepest gratitude to Mr. Anthony Gacis, it would not have been possible without your support and nurturing our skill/s. And also thank you to Mr. Lois Jerson Gonzales for the guidance when life gets hard.
 
 ![computer genius](https://media.tenor.com/bfOEyTxwK40AAAAC/work-computer.gif)
 
