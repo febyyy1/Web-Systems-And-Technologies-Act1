@@ -8,7 +8,11 @@
 :boom: An activity for Web System and Technologies
 
 ### Activities
-:heavy_check_mark: [Activity1](https://github.com/febyyy1/Web-Systems-And-Technologies-Act1/blob/main/index.html)
+:heavy_check_mark: Activity 1
+
+:heavy_check_mark: Activity 2
+
+:heavy_check_mark: Activity 3
 
 #### Members
 - Febe D. Carvajal 	:blush:
