@@ -17,7 +17,7 @@
 :heavy_check_mark: Activity 4
 
 #### Members
-- Febe D. Carvajal 	:blush:
+- Febe D. Carvajal :blush:
 - Cris C. Carranza :clown_face:
 - Lander Gelit :nerd_face:
 - Rene Leona :lion:
